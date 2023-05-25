@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Secure.sbam.org</title>
+    <link>https://secure.sbam.org/</link>
+    <description>Secure.sbam.org is a website that provides information on how to protect your computer from malware and other security threats.</description>
+    <atom:link href="https://secure.sbam.org/feed/" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <pubDate>Mon, 23 May 2023 23:59:59 GMT</pubDate>
+    <lastBuildDate>Mon, 23 May 2023 23:59:59 GMT</lastBuildDate>
+    <generator>Bard</generator>
+    <item>
+      <title>New Malware Threat Discovered</title>
+      <link>https://secure.sbam.org/2023/05/new-malware-threat-discovered/</link>
+      <description>A new malware threat has been discovered that can steal your personal information, including your passwords, credit card numbers, and social security number.</description>
+      <pubDate>Mon, 23 May 2023 23:59:59 GMT</pubDate>
+      <guid>https://secure.sbam.org/2023/05/new-malware-threat-discovered/</guid>
+    </item>
+    <item>
+      <title>How to Protect Yourself from Malware</title>
+      <link>https://secure.sbam.org/2023/05/how-to-protect-yourself-from-malware/</link>
+      <description>There are a number of things you can do to protect yourself from malware, including:
+        * Install a reputable antivirus program and keep it up to date.
+        * Be careful about what websites you visit and what files you download.
+        * Only open emails from people you know and trust.
+        * Keep your operating system and software up to date.
+      </description>
+      <pubDate>Mon, 23 May 2023 23:59:59 GMT</pubDate>
+      <guid>https://secure.sbam.org/2023/05/how-to-protect-yourself-from-malware/</guid>
+    </item>
+  </channel>
+</rss>
